@@ -9,7 +9,7 @@ Language:
   * C#
   * C++
   
-Author: *Jaden Wang*
+Author: *Jaden Wang*  
 Date: 10/06/2015
 
 
