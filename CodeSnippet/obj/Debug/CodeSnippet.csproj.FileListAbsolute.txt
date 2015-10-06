@@ -1,0 +1,6 @@
+c:\users\jwa\documents\visual studio 2013\Projects\CodeSnippet\CodeSnippet\bin\Debug\CodeSnippet.exe.config
+c:\users\jwa\documents\visual studio 2013\Projects\CodeSnippet\CodeSnippet\bin\Debug\CodeSnippet.exe
+c:\users\jwa\documents\visual studio 2013\Projects\CodeSnippet\CodeSnippet\bin\Debug\CodeSnippet.pdb
+c:\users\jwa\documents\visual studio 2013\Projects\CodeSnippet\CodeSnippet\obj\Debug\CodeSnippet.csprojResolveAssemblyReference.cache
+c:\users\jwa\documents\visual studio 2013\Projects\CodeSnippet\CodeSnippet\obj\Debug\CodeSnippet.exe
+c:\users\jwa\documents\visual studio 2013\Projects\CodeSnippet\CodeSnippet\obj\Debug\CodeSnippet.pdb
