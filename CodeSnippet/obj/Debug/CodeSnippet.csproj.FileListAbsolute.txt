@@ -4,3 +4,9 @@ c:\users\jwa\documents\visual studio 2013\Projects\CodeSnippet\CodeSnippet\bin\D
 c:\users\jwa\documents\visual studio 2013\Projects\CodeSnippet\CodeSnippet\obj\Debug\CodeSnippet.csprojResolveAssemblyReference.cache
 c:\users\jwa\documents\visual studio 2013\Projects\CodeSnippet\CodeSnippet\obj\Debug\CodeSnippet.exe
 c:\users\jwa\documents\visual studio 2013\Projects\CodeSnippet\CodeSnippet\obj\Debug\CodeSnippet.pdb
+C:\Users\jwa\Documents\GitHub\CodeSnippet\CodeSnippet\bin\Debug\CodeSnippet.exe.config
+C:\Users\jwa\Documents\GitHub\CodeSnippet\CodeSnippet\bin\Debug\CodeSnippet.exe
+C:\Users\jwa\Documents\GitHub\CodeSnippet\CodeSnippet\bin\Debug\CodeSnippet.pdb
+C:\Users\jwa\Documents\GitHub\CodeSnippet\CodeSnippet\obj\Debug\CodeSnippet.csprojResolveAssemblyReference.cache
+C:\Users\jwa\Documents\GitHub\CodeSnippet\CodeSnippet\obj\Debug\CodeSnippet.exe
+C:\Users\jwa\Documents\GitHub\CodeSnippet\CodeSnippet\obj\Debug\CodeSnippet.pdb
